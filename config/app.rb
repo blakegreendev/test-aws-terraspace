@@ -7,5 +7,5 @@ Terraspace.configure do |config|
     "ingress-submodules": true,
     "branch": "main",
   }
-  #config.cloud.workspace.attrs['vcs-repo'] = vcs_repo
+  config.cloud.workspace.attrs['vcs-repo'] = vcs_repo
 end

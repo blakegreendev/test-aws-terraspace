@@ -1,0 +1,6 @@
+---
+vpc:
+  source: terraform-aws-modules/vpc/aws
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-vpc
+  sha: 030d0f659220eb607c67a105a0c4c3e48b67f3dd
